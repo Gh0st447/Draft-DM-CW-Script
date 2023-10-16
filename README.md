@@ -1,5 +1,5 @@
 # Draft-CW-Script
-I created this draft CW script just to play Fun CW with some friends, and i decided to publish it now.
+I created this draft DM CW script just to play Fun CW with some friends, and i decided to publish it now.
 If you don't know what draft CW is, simply it is a clan war between two teams where the players need to take checkpoints distributed around the map, each point is counted for the player's team.
 
 # General Info About The Script
@@ -29,3 +29,6 @@ Note:<br>1- The current markers.xml file has two maps prepared as an example.<br
 -- Specifies the maximum number of rounds /rounds [num]<br>
 -- Set the current round number /now [num]<br>
 -- Rests everything /reset
+
+# If You Need More Help
+Contact me on Discord: gst1
