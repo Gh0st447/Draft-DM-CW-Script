@@ -1,4 +1,19 @@
 <maps>
+	<DMSleepYftskanderbejiftstormiftFacuuzz-Yatagarasu>
+		<marker id="marker (corona) (192)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3410.5" posY="-2086.3" posZ="49.5" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (193)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3639.7" posY="-1549.8" posZ="124.6" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (194)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4330" posY="-1773.3" posZ="278" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (195)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4019.2" posY="-2920.3" posZ="309.39999" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (196)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4089.8999" posY="-3324.2" posZ="139.8" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (197)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4705.7002" posY="-4112.3999" posZ="232" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (198)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3991.8" posY="-3742.5" posZ="44.6" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (199)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3898.3999" posY="-5288.7998" posZ="19.1" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (200)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4617.5" posY="-6063.2998" posZ="39.5" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (201)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3905.5" posY="-4713.1001" posZ="1" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (202)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4756.7998" posY="-3955.1001" posZ="133.3" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (203)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="4818.3999" posY="-3364.2" posZ="193.2" rotX="0" rotY="0" rotZ="0"></marker>
+		<marker id="marker (corona) (204)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3196.1001" posY="-1831.5" posZ="62.1" rotX="0" rotY="0" rotZ="0"></marker>
+	</DMSleepYftskanderbejiftstormiftFacuuzz-Yatagarasu>
 	<DMSajgoNftKanzyftArrow-DarkMatter>
 		<marker id="marker (corona) (256)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-4024.8" posY="-1616.9" posZ="3814.5" rotX="0" rotY="0" rotZ="0"></marker>
 		<marker id="marker (corona) (307)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-4037.8999" posY="-2531.6001" posZ="3399" rotX="0" rotY="0" rotZ="0"></marker>
