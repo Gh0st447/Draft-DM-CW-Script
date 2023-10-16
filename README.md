@@ -20,12 +20,12 @@ Note:<br>1- The current markers.xml file has two maps prepared as an example.<br
 
 
 # In-game Commands
-/join 1<space><space><space>-- Join team one<br>
-/join 2-- Join team two<br>
-/spec-- Join spectators<br>
-/live-- Set the status of the CW to "Live" begenning from the next map.<br>
-/free-- Set the status of the CW to "free" right away.<br>
-/end-- Ends the CW right away.<br>
-/rounds [num]-- Specifies the maximum number of rounds.<br>
-/now [num]-- Set the current round number.<br>
-/reset-- Rests everything.
+-- Join team one /join 1<br>
+-- Join team two/join 2<br>
+-- Join spectators/spec<br>
+-- Set the status of the CW to "Live" begenning from the next map /live<br>
+-- Set the status of the CW to "free" right away /free<br>
+-- Ends the CW right away /end<br>
+-- Specifies the maximum number of rounds /rounds [num]<br>
+-- Set the current round number /now [num]<br>
+-- Rests everything /reset
