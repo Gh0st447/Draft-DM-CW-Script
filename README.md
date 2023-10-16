@@ -17,3 +17,15 @@ If you don't know what draft CW is, simply it is a clan war between two teams wh
 5- The markers for each map should be added into separate tags named in a specific way, for example if the map name is <br>"[DM] ghost1 ft ghost2 - Ghost Map"<br>the tags for the markers in "markers.xml" file should be <DMghost1ftghost2-GhostMap>, just remove the spaces and brakets.<br>
 
 Note:<br>1- The current markers.xml file has two maps prepared as an example.<br>2- The color and the size of the markers doesn't matter it is automatically set by the script to white and 4.
+
+
+# In-game Commands
+/join 1         -- Join team one<br>
+/join 2         -- Join team two<br>
+/spec           -- Join spectators<br>
+/live           -- Set the status of the CW to "Live" begenning from the next map.<br>
+/free           -- Set the status of the CW to "free" right away.<br>
+/end            -- Ends the CW right away.<br>
+/rounds [num]   -- Specifies the maximum number of rounds.<br>
+/now [num]      -- Set the current round number.<br>
+/reset          -- Rests everything.
