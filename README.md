@@ -8,7 +8,7 @@ If you don't know what draft CW is, simply it is a clan war between two teams wh
 2- The script is made to work with the default Race gamemode and the default mapmanager (it can work with a different race gamemode as long as it is based on the default Race gamemode).<br>
 3- The script needs Admin rights.
 
-# Guide For Adding Checkpoints to maps
+# Guide For Adding Checkpoints To Maps
 
 1- Use map editor to add "markers" in the map, then save the changes.<br>
 2- Open the map folder after saving it and open the file with .map extension (the file that containes all objects of the map).<br>
