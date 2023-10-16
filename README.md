@@ -1,4 +1,4 @@
-# Draft-CW-Script
+# Draft-DM-CW-Script
 I created this draft DM CW script just to play Fun CW with some friends, and i decided to publish it now.
 If you don't know what draft CW is, simply it is a clan war between two teams where the players need to take checkpoints distributed around the map, each point is counted for the player's team.
 
