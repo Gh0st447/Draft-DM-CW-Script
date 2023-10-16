@@ -21,7 +21,7 @@ Note:<br>1- The current markers.xml file has two maps prepared as an example.<br
 
 # In-game Commands
 -- Join team one /join 1<br>
--- Join team two/join 2<br>
+-- Join team two  /join 2<br>
 -- Join spectators/spec<br>
 -- Set the status of the CW to "Live" begenning from the next map /live<br>
 -- Set the status of the CW to "free" right away /free<br>
