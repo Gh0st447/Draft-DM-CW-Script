@@ -10,8 +10,8 @@ If you don't know what draft CW is, simply it is a clan war between two teams wh
 
 # Guide For Adding Checkpoints to maps
 
-1- Use map editor to add "markers" in the map, then save the changes.
-2- Open the map folder after saving it and open the file with .map extension (the file that containes all objects of the map).
-3- Go to the end of the file and copy the last objects with <marker> tag and place, don't forget the delete them after copying them.
-4- Head to draft script folder and paste the copied lines in the file "markers.xml".
-5- The markers for each map should be added into separate tags named in a specific way, for example if the map name is "[DM] ghost1 ft ghost2 - Ghost Map" the tags for the markers in "markers.xml" file should be <DMghost1ftghost2-GhostMap>, just remove the spaces and brakets.
+1- Use map editor to add "markers" in the map, then save the changes.<br>
+2- Open the map folder after saving it and open the file with .map extension (the file that containes all objects of the map).<br>
+3- Go to the end of the file and copy the last objects with <marker> tag and place, don't forget the delete them after copying them.<br>
+4- Head to draft script folder and paste the copied lines in the file "markers.xml".<br>
+5- The markers for each map should be added into separate tags named in a specific way, for example if the map name is "[DM] ghost1 ft ghost2 - Ghost Map" the tags for the markers in "markers.xml" file should be <DMghost1ftghost2-GhostMap>, just remove the spaces and brakets.<br>
