@@ -16,7 +16,7 @@ If you don't know what draft CW is, simply it is a clan war between two teams wh
 4- Head to draft script folder and paste the copied lines in the file "markers.xml".<br>
 5- The markers for each map should be added into separate tags named in a specific way, for example if the map name is <br>"[DM] ghost1 ft ghost2 - Ghost Map"<br>the tags for the markers in "markers.xml" file should be "DMghost1ftghost2-GhostMap", just remove the spaces and brakets.<br>
 
-Note:<br>1- The current markers.xml file has two maps prepared as an example.<br>2- The color and the size of the markers doesn't matter, it is automatically set by the script to white and 4.<br>3- I know adding markers could be done easier but I didn't want to edit Race and Mapmanager scripts. :D
+Note:<br>1- The current markers.xml file has two maps prepared as an example.<br>2- The color and the size of the markers doesn't matter, it is automatically set by the script to white and 5.<br>3- I know adding markers could be done easier but I didn't want to edit Race and Mapmanager scripts. :D
 
 
 # In-game Commands
